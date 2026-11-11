@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ball
   - levelOne
+  - levelTwo
+  - hole
+  - Wall
   layers:
   - Default
   - TransparentFX

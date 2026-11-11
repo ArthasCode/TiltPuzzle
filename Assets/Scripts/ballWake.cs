@@ -1,5 +1,6 @@
 using UnityEngine;
 
+
 public class ballWake : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -8,6 +9,5 @@ public class ballWake : MonoBehaviour
         GetComponent<Rigidbody>().WakeUp();
     }
 
-    // Update is called once per frame
-    
+
 }
